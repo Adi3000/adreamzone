@@ -1,0 +1,9 @@
+[submodule "adreamzone-common"]
+	path = adreamzone-common
+	url = git://github.com/Adi3000/adreamzone-common.git
+[submodule "adreamzone-client"]
+	path = adreamzone-client
+	url = git://github.com/Adi3000/adreamzone-client.git
+[submodule "adreamzone-web"]
+	path = adreamzone-web
+	url = git://github.com/Adi3000/adreamzone-web.git
